@@ -1,0 +1,37 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_10">
+   <stop offset="0.003906" stop-opacity="0.996094" stop-color="#666666"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_12">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#cccccc"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#333333"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_21">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="0" y1="0" x1="1" id="svg_23">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" id="svg_22" d="m330,343c0,1 122.94856,-9 125.899325,-131c2.950765,-122 -125.899325,130 -125.899325,131z" stroke-opacity="null" stroke-width="1.5" fill="url(#svg_23)"/>
+  <path id="svg_20" d="m261,340c0,1 -125,-9 -128,-131c-3,-122 128,130 128,131z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="url(#svg_21)"/>
+  <rect id="svg_14" height="201" width="15" y="6" x="446.234192" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="url(#svg_12)"/>
+  <rect id="svg_13" height="201" width="15" y="6" x="132" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="url(#svg_12)"/>
+  <ellipse stroke="#000" ry="163.999994" rx="163.999994" id="svg_4" cy="173.999994" cx="295.499996" stroke-opacity="null" stroke-width="1.5" fill="#eea058"/>
+  <g stroke="null" id="svg_7">
+   <path stroke="null" fill="url(#svg_10)" stroke-width="1.5" d="m290.866398,8.947422l0.908449,175.229946c0,68.530523 128.94451,134.458622 165.337759,39.036374c36.393249,-95.422248 -50.873157,-222.073595 -166.246207,-214.26632z" id="svg_16"/>
+   <path stroke="null" fill="url(#svg_10)" stroke-width="1.5" d="m302.152312,8.945847l-0.911764,174.428183c0,68.216963 -129.415143,133.843408 -165.941224,38.857764c-36.526081,-94.985644 51.058838,-221.057499 166.852989,-213.285946z" id="svg_18"/>
+  </g>
+  <ellipse stroke="#000" ry="33.5" rx="33.5" id="svg_11" cy="353.5" cx="295.5" stroke-opacity="null" stroke-width="1.5" fill="url(#svg_12)"/>
+  <ellipse ry="27" rx="27" id="svg_15" cy="192" cx="237" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="27" rx="27" id="svg_17" cy="192" cx="354.038452" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <ellipse stroke="#000" ry="9.499999" rx="9.499999" id="svg_19" cy="245.499999" cx="295.5" stroke-opacity="null" stroke-width="1.5" fill="#ffffff"/>
+ </g>
+</svg>

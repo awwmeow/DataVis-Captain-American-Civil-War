@@ -1,0 +1,13 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="190.5" rx="190.5" id="svg_4" cy="202.5" cx="290" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#73ad32"/>
+  <path id="svg_6" d="m119,172l23,-13l23,32l35,-31l26,34l31,-35l23,28l54,-32l7,32l54,8l13,-40l34,13l47,-24l-8,-46c0,0 -42,-45 -42,-48c0,-3 -36,-28 -36,-28c0,0 -70,-12 -70,-12c0,0 -40,-3 -40,-3c0,0 -61,4 -61,4c0,0 -52,14 -52,14c0,0 -23,33 -23,33c0,0 -35,0 -35,0c0,0 -15,25 -15,25c0,0 -11,52 -11,52c0,0 22,28 23,37z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#3d8212"/>
+  <ellipse ry="19" rx="19" id="svg_7" cy="253" cx="249" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="19" rx="19" id="svg_8" cy="252" cx="325.014709" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <path id="svg_11" d="m245,338l82,0c0.05486,0 3,-35 -38,-35c-41,0 -40,9 -44,35z" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <rect transform="rotate(-23.700660705566406 332.50622558593744,215.07015991210926) " id="svg_13" height="15.468862" width="64.255338" y="207.335717" x="300.378547" stroke-width="1.5" fill="#000"/>
+  <rect transform="rotate(23.011476516723633 242.5062255859377,215.07015991210932) " id="svg_14" height="15.468862" width="64.255338" y="207.335717" x="210.378547" stroke-width="1.5" fill="#000"/>
+ </g>
+</svg>

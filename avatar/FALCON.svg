@@ -1,0 +1,14 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>Layer 1</title>
+  <ellipse fill="#ce8440" stroke="#000" stroke-width="1.5" stroke-opacity="null" cx="294.5" cy="200.5" id="svg_4" rx="190.5" ry="190.5"/>
+  <path id="svg_2" d="m111,145l72,-38l216,0l79,42c0,0 -38,-136 -181,-141c-143,-5 -186,137 -186,137z" stroke-width="1.5" stroke="#c1bfb8" fill="#000"/>
+  <path id="svg_3" d="m106,166l177,17l0,86l-159,17l-18,-120z" stroke-width="1.5" stroke="#c1bfb8" fill="#ffffff"/>
+  <path stroke="#c1bfb8" id="svg_5" d="m483.999993,166l-175.999998,17l0,86l158.101693,17l17.898305,-120z" stroke-width="1.5" fill="#ffffff"/>
+  <path stroke="#000" id="svg_6" d="m135,186l122.000002,11.717514l0,59.276837l-109.593222,11.717514l-12.40678,-82.711866z" stroke-width="1.5" fill="#ce8440"/>
+  <path stroke="#000" id="svg_7" d="m456.999996,185l-126.999998,11.717514l0,59.276838l114.084744,11.717514l12.915254,-82.711866z" stroke-width="1.5" fill="#ce8440"/>
+  <path id="svg_8" d="m275.500009,146.410006l18.999991,-33.000006l18.999991,33.000006l-18.999991,33.000006l-18.999991,-33.000006z" stroke-width="1.5" stroke="#000" fill="#ffff00"/>
+  <ellipse ry="15" rx="17" id="svg_9" cy="312" cx="299" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+ </g>
+</svg>

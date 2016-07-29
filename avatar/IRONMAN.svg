@@ -1,0 +1,13 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="190.5" rx="190.5" id="svg_4" cy="200.5" cx="295.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#eebb2e"/>
+  <rect stroke="#000" id="svg_7" height="111.999998" width="75" y="11" x="258" stroke-width="1.5" fill="#930101"/>
+  <ellipse ry="27" rx="27" id="svg_9" cy="224" cx="239" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="27" rx="27" id="svg_10" cy="224" cx="355.155975" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <ellipse stroke="#000000" ry="17.499999" rx="17.499999" id="svg_13" cy="297.499999" cx="295.499999" stroke-width="1.5" fill="#000"/>
+  <path id="svg_14" d="m107,168c-1,0 105,55 105,55c0,0 0,148.013513 0,148c0,0.013513 -58,-28 -90,-91c-32,-63 -14,-112 -15,-112z" stroke-width="1.5" stroke="#000" fill="#930101"/>
+  <path stroke="#000" id="svg_16" d="m482.834749,168c0.969743,0 -101.822985,55 -101.822985,55c0,0 0,148.013513 0,148c0,0.013513 56.245078,-28 87.276844,-91c31.031767,-63 13.576398,-112 14.546141,-112z" stroke-width="1.5" fill="#930101"/>
+ </g>
+</svg>
